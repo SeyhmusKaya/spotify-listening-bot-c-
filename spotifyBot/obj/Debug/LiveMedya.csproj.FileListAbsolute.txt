@@ -1,0 +1,15 @@
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\bin\Debug\chromedriver.exe
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\bin\Debug\YoutubePanel.exe.config
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\bin\Debug\YoutubePanel.exe
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\bin\Debug\YoutubePanel.pdb
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\bin\Debug\WebDriver.dll
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\bin\Debug\WebDriver.Support.dll
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\LiveMedya.csproj.AssemblyReference.cache
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\LiveMedya.csproj.SuggestedBindingRedirects.cache
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\YoutubePanel.Form1.resources
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\YoutubePanel.Properties.Resources.resources
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\LiveMedya.csproj.GenerateResource.cache
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\LiveMedya.csproj.CoreCompileInputs.cache
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\LiveMedya.csproj.CopyComplete
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\YoutubePanel.exe
+C:\Users\şeyh\source\repos\YoutubePanel\YoutubePanel\obj\Debug\YoutubePanel.pdb
